@@ -1,0 +1,49 @@
+#center{
+	-fx-background-color: #1F1540;
+}
+#rightSide{
+	-fx-background-color: #2F195F;
+}
+#sorting{
+	-fx-background-color: #7353BA;
+}
+
+.button {
+    -fx-background-color: #B77DDD;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.button:hover {
+	-fx-background-color: #9568CC;
+	}
+
+.list-view {
+	-fx-background-color: #E397E8;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: #845EC3;
+    -fx-text-fill: white;
+}
+.list-cell {
+	-fx-text-fill: white; 
+	-fx-font-weight: bold;
+}
+.list-cell:odd {
+	-fx-background-color: #E397E8;
+}
+.list-cell:even {
+	 -fx-background-color: #CE89D3;
+}
+.list-cell:filled:hover { 
+    -fx-background-color: #2F195F;
+    -fx-text-fill: white;
+}
+
+
+
