@@ -4,4 +4,3 @@ Yet to complete:
   -write ArrayList to file
   -load ArrayList from file
   -clean up GUI?
-
